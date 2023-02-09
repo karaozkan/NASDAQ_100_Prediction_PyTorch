@@ -1,6 +1,5 @@
 # NASDAQ_100_Prediction_PyTorch
 
-# PROJECT: NASDAQ 100
 ## Ozkan Kara & Sertan Avdan
 
 Published: 2023.02.09
