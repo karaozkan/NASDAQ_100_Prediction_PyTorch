@@ -1,4 +1,4 @@
-# NASDAQ_100_Prediction_PyTorch
+# NASDAQ 100 Prediction (Deep Learning Model: PyTorch)
 
 ## Ozkan Kara & Sertan Avdan
 
